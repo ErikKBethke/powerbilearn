@@ -3,7 +3,7 @@
 ## Learning Power BI
 This repo is a warehouse for helping develop learning materials for Microsoft's Power BI. It will cover several different aspects of Power BI, ranging from deployment and pricing to advanced visualizations development.
 
-Some of this documentation is intended for public consumption. Others are particular to ICF, and have specific information that is related to setting up a Power BI shop within ICF. These ICF specific modules will be indicated as such, and should not be included in publicly published series.
+This documentation is intended for public consumption, and will be focused on content creator usage rather than administration and other aspects of enterprise level systems.
 
 This is currently a development project of my own personal time, and as a result has no established timeline. It also will contain opinion-based perspectives when discussing the capabilities of Power BI - other opinions will vary. The project will include markdown of different sections of learning, and will feature two complementary formats of presentation:
 1. Video learning materials
@@ -21,8 +21,6 @@ Please see the following navigation links for easy movement throughout the learn
   * [What do Power BI dashboards look like?](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#what-do-power-bi-dashboards-look-like)
 
 [2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn#2-pricing--deployment)  
-
-[2a. ICF Deployment](https://github.com/ErikKBethke/powerbilearn#2a-icf-deployment)  
 
 [3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn#3-setup--installation)  
 
