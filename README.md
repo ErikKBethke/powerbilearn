@@ -15,7 +15,7 @@ Please see the following navigation links for easy movement throughout the learn
 
 [1. Business Intelligence & Power BI](https://github.com/ErikKBethke/powerbilearn#1-business-intelligence--power-bi)  
   * [Test Link]()
-    - [Test Link]()
+    - [Test Link]()  
 [2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn#2-pricing--deployment)  
 [2a. ICF Deployment](https://github.com/ErikKBethke/powerbilearn#2a-icf-deployment)  
 [3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn#3-setup--installation)  
