@@ -44,5 +44,5 @@ Here are some publicly listed examples of what you can expect from a Power BI da
 
 [Power BI Global Events](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Global-Events/m-p/554312)  
 
-|[Learning Power BI](https://github.com/ErikKBethke/powerbilearn#learning-power-bi)|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[2. Pricing & Deployment]()|
+|[Learning Power BI](https://github.com/ErikKBethke/powerbilearn#learning-power-bi)|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Pricing%20%26%20Deployment.md#2-pricing--deployment)|
 |:---:|:---:|:---:|

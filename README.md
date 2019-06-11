@@ -20,7 +20,7 @@ Please see the following navigation links for easy movement throughout the learn
   * [Other BI Options](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#other-bi-options)
   * [What do Power BI dashboards look like?](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#what-do-power-bi-dashboards-look-like)
 
-[2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn#2-pricing--deployment)  
+[2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Pricing%20%26%20Deployment.md#2-pricing--deployment)  
 
 [3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn#3-setup--installation)  
 
@@ -35,24 +35,3 @@ Please see the following navigation links for easy movement throughout the learn
 [8. Custom Visualizations Workshop](https://github.com/ErikKBethke/powerbilearn#8-custom-visualizations-workshop)  
 
 [9. Tips & Tricks](https://github.com/ErikKBethke/powerbilearn#9-tips--tricks)  
-
-## 1. Business Intelligence & Power BI
-
-
-## 2. Pricing & Deployment
-
-## 2a. ICF Deployment
-
-## 3. Setup & Installation
-
-## 4. Familiarizing with Power BI Layout
-
-## 5. Basic Data Management
-
-## 6. Visualization & Dashboard Development - Basics
-
-## 7. Visualization & Dashboard Development - Advanced
-
-## 8. Custom Visualizations Workshop
-
-## 9. Tips & Tricks
