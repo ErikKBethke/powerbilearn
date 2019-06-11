@@ -13,9 +13,12 @@ Please see the following navigation links for easy movement throughout the learn
 ### Table of Contents
 [Learning Power BI](https://github.com/ErikKBethke/powerbilearn#learning-power-bi)  
 
-[1. Business Intelligence & Power BI](https://github.com/ErikKBethke/powerbilearn#1-business-intelligence--power-bi)  
-  * [Test Link]()
-    - [Test Link]()  
+[1. Business Intelligence & Power BI](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#1-business-intelligence--power-bi)  
+  * [What is Business Intelligence?](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#what-is-business-intelligence)
+  * [What is Power BI?](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#what-is-power-bi)
+    - [Strengths & Weaknesses of Power BI](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#strengths--weaknesses-of-power-bi)
+  * [Other BI Options](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#other-bi-options)
+  * [What do Power BI dashboards look like?](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#what-do-power-bi-dashboards-look-like)
 
 [2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn#2-pricing--deployment)  
 

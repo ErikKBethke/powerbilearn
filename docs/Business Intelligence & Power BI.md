@@ -3,7 +3,7 @@
 ### What is Business Intelligence?
 Business Intelligence (BI) is a general term used to describe the different technologies, practices, and applications that are used to collect, use, and manipulate data to provide insights about businesses.
 
-Here are several wonderful resources that discuss business intelligence and its uses further:
+Here are several wonderful resources that discuss business intelligence and its uses further:  
 [Business Intelligence - Wikipedia](https://en.wikipedia.org/wiki/Business_intelligence)
 
 [What is business intelligence and why does it matter? - Tableau](https://www.tableau.com/learn/articles/business-intelligence)
@@ -29,7 +29,7 @@ Weaknesses
 * Limited personalization options
 
 ### Other BI Options
-There are numerous options to consider beyond Power BI. Below are a few popular choices:
+There are numerous options to consider beyond Power BI. Below are a few popular choices:  
 [Looker](https://looker.com/)  
 [Microstrategy](https://www.microstrategy.com/us)  
 [Qlik](https://www.qlik.com/us/)  
@@ -38,8 +38,11 @@ There are numerous options to consider beyond Power BI. Below are a few popular 
 
 ### What do Power BI dashboards look like?
 Here are some publicly listed examples of what you can expect from a Power BI dashboard (via the [Community Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)). Links are to public gallery listings, where you can interact with the dashboard.
-* Please note that I am not the publisher of these dashboards
+* _Please note that I am not the publisher of these dashboards_
 
 [Power BI September Microsoft Blog Layout](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-September-Microsoft-Blog-Layout/m-p/529243)  
 
 [Power BI Global Events](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Global-Events/m-p/554312)  
+
+|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[2. Pricing & Deployment]()|
+|:---:|:---:|
