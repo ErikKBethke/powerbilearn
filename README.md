@@ -11,18 +11,18 @@ This is currently a development project of my own personal time, and as a result
 
 Please see the following navigation links for easy movement throughout the learning material
 ### Table of Contents
-[Learning Power BI](https://github.com/ErikKBethke/powerbilearn#documentation-repository-for-learning-power-bi)
-* [1. Business Intelligence & Power BI]()
+[Learning Power BI](https://github.com/ErikKBethke/powerbilearn#learning-power-bi)
+* [1. Business Intelligence & Power BI](https://github.com/ErikKBethke/powerbilearn#1-business-intelligence--power-bi)
   - [Test Link]()
-* [2. Pricing & Deployment]()
-* [2a. ICF Deployment]()
-* [3. Setup & Installation]()
-* [4. Familiarizing with Power BI Layout]()
-* [5. Basic Data Management ]()
-* [6. Visualization & Dashboard Development - Basics]()
-* [7. Visualization & Dashboard Development - Advanced]()
-* [8. Custom Visualizations Workshop]()
-* [9. Tips & Tricks]()
+* [2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn#2-pricing--deployment)
+* [2a. ICF Deployment](https://github.com/ErikKBethke/powerbilearn#2a-icf-deployment)
+* [3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn#3-setup--installation)
+* [4. Familiarizing with Power BI Layout](https://github.com/ErikKBethke/powerbilearn#4-familiarizing-with-power-bi-layout)
+* [5. Basic Data Management ](https://github.com/ErikKBethke/powerbilearn#5-basic-data-management)
+* [6. Visualization & Dashboard Development - Basics](https://github.com/ErikKBethke/powerbilearn#6-visualization--dashboard-development---basics)
+* [7. Visualization & Dashboard Development - Advanced](https://github.com/ErikKBethke/powerbilearn#7-visualization--dashboard-development---advanced)
+* [8. Custom Visualizations Workshop](https://github.com/ErikKBethke/powerbilearn#8-custom-visualizations-workshop)
+* [9. Tips & Tricks](https://github.com/ErikKBethke/powerbilearn#9-tips--tricks)
 
 ## 1. Business Intelligence & Power BI
 
