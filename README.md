@@ -21,6 +21,7 @@ Please see the following navigation links for easy movement throughout the learn
   * [What do Power BI dashboards look like?](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#what-do-power-bi-dashboards-look-like)
 
 [2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Pricing%20%26%20Deployment.md#2-pricing--deployment)  
+  * [Business Model Options](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Pricing%20%26%20Deployment.md#business-model-options)  
 
 [3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn#3-setup--installation)  
 
