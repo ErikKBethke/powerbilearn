@@ -1,4 +1,4 @@
-## 1.
+## 8. Custom Visualizations Workshop
 
 ###
 

@@ -13,5 +13,5 @@ _Note: If you would like to download a different language, use the Advanced Opti
 5. That's it!
 
 
-|[2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Pricing%20%26%20Deployment.md#2-pricing--deployment)|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[2. Pricing & Deployment]()|
+|[2. Pricing & Deployment](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Pricing%20%26%20Deployment.md#2-pricing--deployment)|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[]()|
 |:---:|:---:|:---:|

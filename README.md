@@ -27,7 +27,7 @@ Please see the following navigation links for easy movement throughout the learn
 
 [4. Familiarizing with Power BI]()  
 
-[5. Basic Data Management ]()  
+[5. Basic Data Management]()  
 
 [6. Visualization & Dashboard Development - Basics]()  
 
