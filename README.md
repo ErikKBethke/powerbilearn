@@ -25,14 +25,14 @@ Please see the following navigation links for easy movement throughout the learn
 
 [3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Setup%20%26%20Installation.md#3-setup--installation)  
 
-[4. Familiarizing with Power BI]()  
+[4. Familiarizing with Power BI](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Familiarizing%20with%20Power%20BI.md#4-familiarizing-with-power-bi)  
 
-[5. Basic Data Management]()  
+[5. Basic Data Management](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Basic%20Data%20Management.md#5-basic-data-management)  
 
-[6. Visualization & Dashboard Development - Basics]()  
+[6. Visualization & Dashboard Development - Basics](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Visualization%20%26%20Dashboard%20Development%20-%20Basics.md#6-visualization--dashboard-development---basics)  
 
-[7. Visualization & Dashboard Development - Advanced]()  
+[7. Visualization & Dashboard Development - Advanced](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Visualization%20%26%20Dashboard%20Development%20-%20Advanced.md#7-visualization--dashboard-development---advanced)  
 
-[8. Custom Visualizations Workshop]()  
+[8. Custom Visualizations Workshop](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Custom%20Visualizations%20Workshop.md#8-custom-visualizations-workshop)  
 
-[9. Tips & Tricks]()  
+[9. Tips & Tricks](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Tips%20%26%20Tricks.md#9-tips--tricks)  

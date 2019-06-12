@@ -5,5 +5,5 @@
 ###
 
 
-|[1. Business Intelligence & Power BI](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Business%20Intelligence%20%26%20Power%20BI.md#1-business-intelligence--power-bi)|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[3. Setup & Installation](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Setup%20%26%20Installation.md#3-setup--installation)|
+|[6. Visualization & Dashboard Development - Basics](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Visualization%20%26%20Dashboard%20Development%20-%20Basics.md#6-visualization--dashboard-development---basics)|[Table of Contents](https://github.com/ErikKBethke/powerbilearn#table-of-contents)|[8. Custom Visualizations Workshop](https://github.com/ErikKBethke/powerbilearn/blob/master/docs/Custom%20Visualizations%20Workshop.md#8-custom-visualizations-workshop)|
 |:---:|:---:|:---:|
